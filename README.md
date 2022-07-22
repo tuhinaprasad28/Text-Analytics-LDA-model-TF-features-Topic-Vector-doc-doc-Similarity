@@ -16,7 +16,7 @@ D3	43	0	8	…	…	…	…	…	6
 
 D4	2	28	0	…	…	…	…	…	0
 
-After fitting the LDA, extract and print out the top 10 words of each topic, similar to the output in page 44 of “Text Clustering” lecture slide. 
+After fitting the LDA, extract and print out the top 10 words of each topic:
 
 
 Output: (.txt)
